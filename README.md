@@ -19,7 +19,7 @@ git clone https://github.com/konya7/kon_F6L_KisBeadand-.git
 cd ~/ros2_ws
 ```
 ``` r
-colcon build --packages-select sze_sw1_szinusz --symlink-install
+colcon build --packages-select mower_sim --symlink-install
 ```
 
 <details>
