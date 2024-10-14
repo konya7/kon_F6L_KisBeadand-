@@ -1,4 +1,4 @@
-# `sze_sw1_szinusz` package
+# `kon_F6L_KisBeadand` package
 ROS 2 C++ package.  [![Static Badge](https://img.shields.io/badge/ROS_2-Humble-34aec5)](https://docs.ros.org/en/humble/)
 
 A teknőc a rendelkezésre álló területet körbejárja és egy őnvezető fűnyírót szimulálna.
